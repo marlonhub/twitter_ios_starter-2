@@ -24,7 +24,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/t9wSo9zcj4EAo4R9x2" width="444" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src='"https://giphy.com/embed/t9wSo9zcj4EAo4R9x2" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
